@@ -1,2 +1,2 @@
-# EscapeRoomSuitcase
-Suitcase with a riddle for escape room
+# EscapeRoomBriefcase
+Briefcase with riddles to use in escape room amusement. 
