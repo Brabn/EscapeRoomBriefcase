@@ -33,13 +33,13 @@ The system includes several “riddles” that must be solved sequentially:
     - Card removed – The symbol screen displays `Insert card`;
 5.	The player begins to enter the code from the keyboard
     - Entering a symbol or number – displayed on the screen;
-    - `del”, “backspace” – deleting the last character;
-    - “esc” – deletes all entered characters;
-    - “enter” – enter a password;
-    - e. The rest of the buttons - nothing happens and a short buzzer;
-6.	The player entered the password and pressed “enter”
-    - Wrong password – long buzzer, “wrong password” flashes on the screen three times with a pause of 0.5 seconds. Then everything goes back to the beginning of entering the password;
-    - The password is correct – “correct password” is displayed on the character screen for 10 seconds. The change of numbers on the numerical display stops - a certain sequence of 8 digits is displayed. The character screen displays “code decrypted” The LED next to the number pad begins to blink. The alphabetic keyboard stops responding to keystrokes;
+    - `del`, `backspace` – deleting the last character;
+    - `esc` – deletes all entered characters;
+    - `enter` – enter a password;
+    - The rest of the buttons - nothing happens and a short buzzer;
+6.	The player entered the password and pressed `enter`
+    - Wrong password – long buzzer, `wrong password` flashes on the screen three times with a pause of 0.5 seconds. Then everything goes back to the beginning of entering the password;
+    - The password is correct – `correct password` is displayed on the character screen for 10 seconds. The change of numbers on the numerical display stops - a certain sequence of 8 digits is displayed. The character screen displays `code decrypted` The LED next to the number pad begins to blink. The alphabetic keyboard stops responding to keystrokes;
 7.	The player starts typing the numbers on the number pad
     - Each press is accompanied by a flash on the numeric display and a short buzzer tone.
 8.	All 8 digits entered and presseed `#` (`ok` or as it will be signed as `ok` on the numeric keypad.
