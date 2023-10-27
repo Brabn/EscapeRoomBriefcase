@@ -47,7 +47,7 @@ The system includes several “riddles” that must be solved sequentially:
     - The player presses one of the buttons – nothing happens, a short buzzer;
     - The player presses two buttons at the same time – the lamp between the buttons lights up, the long buzzer comes on, the electric lock of the exit door is unlocked;
 
-System parameters:
+## System parameters:
 * Main controller		– Arduino Uno 
 * Processor 			– 16 MGh, ATmega328P
 * Controller memory		– 32 KB Flash + 2 kB SRAM + 1kB EEPROM
@@ -72,7 +72,7 @@ System parameters:
 * Signal led
 * Electric lock – 2pcs
 
-## Wiring diageam
+## Wiring diagram
 
 ![Escape Room Briefcase wiring diagram](https://github.com/Brabn/EscapeRoomBriefcase/blob/main/Wiring_diagram/EscapeRoomBriefcase.WiringDiagram.jpg)
 
