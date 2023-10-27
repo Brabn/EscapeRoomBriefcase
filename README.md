@@ -42,7 +42,7 @@ The system includes several “riddles” that must be solved sequentially:
     - The password is correct – `correct password` is displayed on the character screen for 10 seconds. The change of numbers on the numerical display stops - a certain sequence of 8 digits is displayed. The character screen displays `code decrypted` The LED next to the number pad begins to blink. The alphabetic keyboard stops responding to keystrokes;
 7.	The player starts typing the numbers on the number pad
     - Each press is accompanied by a flash on the numeric display and a short buzzer tone.
-8.	All 8 digits entered and presseed `#` (`ok` or as it will be signed as `ok` on the numeric keypad.
+8.	All 8 digits entered and presseed `#` (as it will be signed as `ok` on the numeric keypad)
     - The code is incorrect 	– the buzzer is long, the numbers on the numerical scoreboard flash twice and light up again;
     - The code is correct – the numbers on the numerical board are extinguished. The			 `correct code` is displayed on the symbol screen. A signal is given to unlock the magnetic lock of the button cover on the main stationary console;
 9.	The electric lock, which locks the transparent lid, is unlocked and two buttons become available
