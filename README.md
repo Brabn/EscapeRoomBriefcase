@@ -1,5 +1,5 @@
 # EscapeRoomBriefcase
-Briefcase with riddles to use in escape room amusement. 
+[Briefcase with riddles](https://techi-news.com/Projects/Briefcase-with-riddles-to-use-in-escape-room-amusement) to use in escape room amusement. 
 
 According to the plot of the game, the briefcase is part of the puzzle and must be used in a chain of tasks to open the exit door.
 
